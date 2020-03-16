@@ -44,4 +44,4 @@ __Plan:__
 1. Summarize the work with some insights, explain how it is could be implemented in a real-world problem
 
 __Objective:__
-By the end of the project we expect a Neural Network model classifying a garbage to one of the 6 given above garbage type with accuracy more than 90%. It can be a complicated challenge due to the fact that provided dataset seems to be difficult to classify. Also number of images
+By the end of the project we expect a Neural Network model classifying a garbage to one of the 6 given above garbage type with accuracy more than 90%. It can be a complicated challenge due to the fact that provided dataset seems to be difficult to classify.
