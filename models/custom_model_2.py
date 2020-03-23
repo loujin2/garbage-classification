@@ -34,7 +34,9 @@ def create_model(input_shape=INPUT_SHAPE_384_512):
     )
 
     model.compile(
-        optimizer="adam", loss=keras.losses.categorical_crossentropy, metrics=["accuracy"]
+        optimizer="adam",
+        loss=keras.losses.categorical_crossentropy,
+        metrics=["accuracy"],
     )
 
     return model
